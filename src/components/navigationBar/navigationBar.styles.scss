@@ -1,0 +1,14 @@
+.nav_container {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.nav_element{
+    padding: 0% 1%;
+    color: white;
+    font-weight: 600;
+}
